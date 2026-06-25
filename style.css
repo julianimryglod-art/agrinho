@@ -14,4 +14,24 @@ header h1{
     font-size: 34px;
     text-align:center;
     font-family:sans-serif;
+
+}
+
+img{
+    width: 300px;
+    heigth:180px;
+}
+
+footer{
+    background-color:pink;
+    text-align: center;
+    color:black;
+    position: fixed;
+    width: 100%;
+}  
+
+
+main{
+    background-color:rgb(242, 174, 214);
+    width: 70%;
 }
